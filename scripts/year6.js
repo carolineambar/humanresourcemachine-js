@@ -1,5 +1,5 @@
 function year6(items) {
-    counter = 0
+    let counter = 0
     const newItems = []
     while(counter < items.length) {
         const soma = items[counter] + items[counter+1]
@@ -7,7 +7,6 @@ function year6(items) {
         newItems.push(soma)
     }
     return newItems
-
 }
 
 const inbox = [5, 8, 0, -4, 0, 3]
