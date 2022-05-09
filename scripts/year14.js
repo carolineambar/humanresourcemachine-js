@@ -5,7 +5,7 @@ function year14(items) {
         if(items[counter] >= items[counter + 1]){
             newItems.push(items[counter])
         }
-        else if(items[counter + 1] >= items[counter]){
+        else (items[counter + 1] >= items[counter]){
             newItems.push(items[counter + 1])
         }
         counter = counter+2
