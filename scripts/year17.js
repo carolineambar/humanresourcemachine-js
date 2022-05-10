@@ -3,13 +3,13 @@ function year17(items) {
     const newItems = []
     while(counter < items.length) {
         if(items[counter] >= 0 && items[counter + 1] >= 0){
-            newItems.push(item = 0)
+            newItems.push(0)
         }
         else if (items[counter] < 0 && items[counter + 1] < 0){
-            newItems.push(item = 0)
+            newItems.push(0)
         }
         else {
-            newItems.push(item = 1)
+            newItems.push(1)
         }
         counter = counter+2
     }

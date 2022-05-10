@@ -1,7 +1,7 @@
 function year16(items) {
     const newItems = items.map((item) => {
         if (item < 0){
-            return item = item * -1
+            return item * -1
         }
         else {
             return item
