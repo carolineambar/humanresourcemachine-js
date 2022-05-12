@@ -6,12 +6,11 @@ function year19(items) {
             newItems.push(counter)
             if (item > 0) {
                 counter--
-            }
-            else if (item < 0) {
+            } else {
                 counter++
             }
         }
-        if (counter === 0) newItems.push(counter)
+        newItems.push(counter)
     })
     return newItems
 }
