@@ -1,6 +1,6 @@
 # Human Resource Machine em JavaScript
 
-<img align="center" alt="Screenshot of the human resources machine game with an avatar holding a box that is characteristic of the game and in the background the name of the game" src="https://user-images.githubusercontent.com/91106093/179224330-fca9d4ef-e85c-447f-934f-c298df8cce8a.png" width="600px" />
+<img align="right" alt="Screenshot of the human resources machine game with an avatar holding a box that is characteristic of the game and in the background the name of the game" src="https://user-images.githubusercontent.com/91106093/179224330-fca9d4ef-e85c-447f-934f-c298df8cce8a.png" width="500px" />
 
 O Human Resource Machine é um jogo que tem como obejtivo exercitar a lógica e entender um pouco mais sobre algorítmos. Nesse projeto refiz a funcionalidade de alguns níveis (ou ano) do jogo utilizando JavaScript.
 
