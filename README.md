@@ -6,7 +6,15 @@ O Human Resource Machine é um jogo que tem como obejtivo exercitar a lógica e 
 
 Esse projeto teve como objetivo colocar em prática funções e outros aprendizados da linguagem de programação JavaScript.
 
-Para verificar um ano (nível/fase) específico é necessário alterar o mesmo no documento index.html.
+Para verificar um ano (nível/fase) específico é necessário alterar o mesmo no documento index.html conforme exemplo a seguir.
+
+No exemplo abaixo quero verificar o ano 17, sendo assim, o documento index.html deverá ser alterado na seguinte linha:
+
+```
+<body>
+    <script src="./scripts/year17.js"></script>
+</body>
+```
 
 ## Autora
 
